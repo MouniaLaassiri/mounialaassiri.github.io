@@ -11,19 +11,19 @@ Upwards of 200 learners per day from the host country can participate in this pr
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
 Here is a list of the ASP learner programs I have participated in:
-* [ASP2024 High School](https://indico.cern.ch/event/1393743/)
+- **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
     The high school program was planned for April 15-19 (when pupils will be in school). We accommodated more than 1,000 learners at five different venues as follows:
-        -Marrakech: Monday 15 april
-        -Chichaooua: Tuesday 16 april
-        -Al Haouz:  Wednesday 17 april
-        -Kalaat Sraghna: Thursday 18 april
-        -Rehamna: Friday 19 april
+  - Marrakech: Monday 15 april
+  - Chichaooua: Tuesday 16 april
+  - Al Haouz:  Wednesday 17 april
+  - Kalaat Sraghna: Thursday 18 april
+  - Rehamna: Friday 19 april
   
 <img src="../ASP2022_Learners_Prpgram.jpeg"  width="425">
 
 
 
-* [ASP2022 High School](https://africanschoolofphysics.org/asp2022/), 
+- **[ASP2022 High School](https://africanschoolofphysics.org/asp2022/)** <br />  
     This program was organized as an outreach event with hands-on activities in fundamental physics developed by QuarkNet, along with information
     on fundamental physics research based in Africa. The outreach activities, facilitated by two QuarkNet staff members in the Teachers’ Program
     and a group of ASP2022 lecturers, included particle cards, a cosmic muon experiment, particle-collision activities, and a questions-and-answers session.
