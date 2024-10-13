@@ -9,6 +9,6 @@ Through my involvement in initiatives like the ASP, ASFAP, APN, and ArPS, I hope
 
 # Profile
 * [Academic CV](https://github.com/matiassingers/awesome-readme)
-* [Outreach](https://github.com/matiassingers/awesome-readme)
+* [Outreach](https://github.com/MouniaLaassiri/mounialaassiri.github.io/tree/main/Outreach)
 * [Linkedin](https://fi.linkedin.com/in/mounia-laassiri-85390185)
 * [ORCiD](https://orcid.org/0000-0001-7146-4468)
