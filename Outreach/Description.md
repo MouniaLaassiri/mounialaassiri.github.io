@@ -19,7 +19,7 @@ Here is a list of the ASP learner programs I have participated in:
   - Kalaat Sraghna: Thursday 18 april
   - Rehamna: Friday 19 april
   
-<img style="" width="425" alt="ASP2024LP" title="ASP2024LP" src="../ASP2022_Learners_Program.jpeg">
+<img style="" width="425" alt="ASP2022" title="ASP2022" src="../ASP2022_Learners_Program.jpeg">
 
 - **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
     This program was organized as an outreach event with hands-on activities in fundamental physics developed by QuarkNet, along with information
@@ -28,4 +28,5 @@ Here is a list of the ASP learner programs I have participated in:
     The Q&A was especially motivating for students, as they could "ask anything" of physicists who were mostly young and primarily from Africa. The program was repeated 
     for four hours daily for five days for different groups of pupils from schools in and around Gqeberha, with a total of 231 pupils attending.
 
-<img style="" width="425" alt="ASP2024LP" title="ASP2024LP" src="../ASP2024_Learners_Program.jpeg">
+<img style="" width="425" alt="ASP2024" title="ASP2024" src="../ASP2024_Learners_Program.jpeg">
+
