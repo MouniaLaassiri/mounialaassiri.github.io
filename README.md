@@ -6,4 +6,4 @@ I'm also an editor of the African Physics Newsletter (APN), published quarterly 
 
 Through my involvement in initiatives like the ASP, ASFAP, APN, and ArPS, I hope to continue mentoring the next generation of African and Arab physicists.
 
-[test.]([https://www.bnl.gov/staff/mlaassiri](https://github.com/MouniaLaassiri/mounialaassiri.github.io/blob/main/Outreach/Description.html))
+
