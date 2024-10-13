@@ -21,6 +21,10 @@ Here is a list of the ASP learner programs I have participated in:
   
 <img src="../ASP2022_Learners_Prpgram.jpeg"  width="425">
 
+- **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
+    The high school program was planned for April 15-19 (when pupils will be in school). We accommodated more than 1,000 learners at five different venues as follows:
+
+  
 
 
 - **[ASP2022 High School](https://africanschoolofphysics.org/asp2022/)** <br />  
