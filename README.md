@@ -8,7 +8,7 @@ I'm also an editor of the African Physics Newsletter (APN), published quarterly 
 Through my involvement in initiatives like the ASP, ASFAP, APN, and ArPS, I hope to continue mentoring the next generation of African and Arab physicists.
 
 # Profile
-* [Academic CV](https://github.com/matiassingers/awesome-readme)
+* [Academic CV](CV/Academic_CV.pdf)
 * [Outreach](https://github.com/MouniaLaassiri/mounialaassiri.github.io/tree/main/Outreach)
 * [Linkedin](https://fi.linkedin.com/in/mounia-laassiri-85390185)
 * [ORCiD](https://orcid.org/0000-0001-7146-4468)
