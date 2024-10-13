@@ -22,6 +22,7 @@ Here is a list of the ASP learner programs I have participated in:
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="../ASP2022_Learners_Program.jpeg">
 
 <br> <br>
+
 - **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
     This program was organized as an outreach event with hands-on activities in fundamental physics developed by QuarkNet, along with information
     on fundamental physics research based in Africa. The outreach activities, facilitated by two QuarkNet staff members in the Teachers’ Program
