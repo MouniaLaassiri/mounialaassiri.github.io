@@ -19,7 +19,7 @@ Here is a list of the ASP learner programs I have participated in:
         *Kalaat Sraghna: Thursday 18 april
         *Rehamna: Friday 19 april
   
-<img src="ASP2022_Learners_Prpgram.jpeg" alt="ASP 2022 Learners Program" width="425">
+<img src="../ASP2022_Learners_Prpgram.jpeg">
 
 
 
