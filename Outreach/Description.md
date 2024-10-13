@@ -20,8 +20,6 @@ Here is a list of the ASP learner programs I have participated in:
   - Rehamna: Friday 19 april
   
 <img style="" width="425" alt="ASP2024LP" title="ASP2024LP" src="../ASP2022_Learners_Program.jpeg">
-![Learners Program](https://github.com/MouniaLaassiri/mounialaassiri.github.io/edit/main/Outreach/ASP2022_Learners_Program.jpeg)
-
 
 - **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
     This program was organized as an outreach event with hands-on activities in fundamental physics developed by QuarkNet, along with information
