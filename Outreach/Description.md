@@ -29,4 +29,4 @@ Here is a list of the ASP learner programs I have participated in:
     The Q&A was especially motivating for students, as they could "ask anything" of physicists who were mostly young and primarily from Africa. The program was repeated 
     for four hours daily for five days for different groups of pupils from schools in and around Gqeberha, with a total of 231 pupils attending.<br> <br>
 
-<img style="" width="425" alt="ASP2024" title="ASP2024" src="../ASP2024_Learners_Program.jpeg">
+<img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2024_Learners_Program.jpeg">
