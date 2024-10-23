@@ -18,11 +18,8 @@ Here is a list of the ASP learner programs I have participated in:
   - Al Haouz:  Wednesday 17 april
   - Kalaat Sraghna: Thursday 18 april
   - Rehamna: Friday 19 april <br> <br>
-  
-<img style="" width="425" alt="Moun" title="Moun" src="MLaassiri.JPG">
 
-
-
+<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2022_Learners_Program.jpeg">
 
 - **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
     This program was organized as an outreach event with hands-on activities in fundamental physics developed by QuarkNet, along with information
