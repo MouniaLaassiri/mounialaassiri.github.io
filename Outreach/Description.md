@@ -19,8 +19,8 @@ Here is a list of the ASP learner programs I have participated in:
   - Kalaat Sraghna: Thursday 18 april
   - Rehamna: Friday 19 april <br> <br>
   
-<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2022_Learners_Program.jpeg"> 
-![ASP2022](ASP2022_Learners_Program.jpeg)
+<img style="" width="425" src="ASP2022_Learners_Program.jpeg"> 
+
 
 
 - **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
