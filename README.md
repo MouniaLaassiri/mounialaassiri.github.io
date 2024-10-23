@@ -1,5 +1,5 @@
 # Mounia Laassiri, PhD
-<img style="" width="425" alt="Moun" title="Moun" src="../Outreach/Mlaassiri.JPG">
+<img style="" width="425" alt="Moun" title="Moun" src="Outreach/Mlaassiri.JPG">
 Hello! My name is Mounia, and I'm a curious and keen physicist currently working as a postdoctoral researcher at Brookhaven National Laboratory (BNL) [ref.](https://www.bnl.gov/staff/mlaassiri), as part of the ATLAS collaboration on the testing of the ATLAS strip tracker upgrade (ITk) and the African School of Physics (ASP). I hold a Ph.D. in physics and nuclear instrumentation from Mohammed V University in Morocco, where I also earned a B.Sc. in fundamental studies and an M.Sc. in the security of computer networks and embedded systems.
 
 I serve as a co-convener of the African Young Physicists Forum (YPF) within the African Strategy for Fundamental and Applied Physics (ASFAP). In this role, I organize young African physicists into YPF to address issues related to their career growth, supporting the mission of the African Physical Society. 
