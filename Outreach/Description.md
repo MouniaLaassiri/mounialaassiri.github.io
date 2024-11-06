@@ -15,12 +15,13 @@ Here is a list of the ASP learner programs I have participated in:
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
-Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building.
+_Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building._
+
 
 - **[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)** <br /> 
 
 <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
- Dr Mounia Laassiri had fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre.
+ _Dr Mounia Laassiri had fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre._
 
 
 
