@@ -16,8 +16,7 @@ Here is a list of the ASP learner programs I have participated in:
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
 
-
-- **[ASP2024 High School]([https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))* <br /> 
+- **[ASP2022 High School]([https://indico.cern.ch/event/1393743/](https://indico.cern.ch/event/1393743/](https://africanschoolofphysics.org/asp2022/))** <br /> 
 
 <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
 
