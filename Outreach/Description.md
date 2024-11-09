@@ -26,7 +26,9 @@ learners are identified by the local organizing committee (LOC) in consultation 
 <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
 
 ## ASP Online Seminars
-While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly seminar or colloquium to supplement the ASP term schools.
+While joining the ASP-IOCs, I began managing the ASP Online Seminars—a monthly seminar or colloquium designed to supplement the ASP term schools.
+
+[Learn more about ASP Online Lecture Series](https://indico.cern.ch/category/12710/) 
 
 
 
