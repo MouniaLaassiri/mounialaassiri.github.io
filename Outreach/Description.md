@@ -12,17 +12,6 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 ## Here is a list of ASP learner programs in which I have participated:
 
-<table>
-  <tr>
-    <td><strong>Title 1</strong></td>
-    <td><strong>Title 2</strong></td>
-  </tr>
-  <tr>
-    <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
-    <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
-  </tr>
-</table>
-
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
