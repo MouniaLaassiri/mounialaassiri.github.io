@@ -10,7 +10,7 @@ The objective is to motivate learners to develop and maintain interest in physic
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
-## Here is a list of ASP learner programs in which I have participated:
+### Here is a list of ASP learner programs in which I have participated:
 
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
