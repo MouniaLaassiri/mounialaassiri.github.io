@@ -16,9 +16,21 @@ The objective is to motivate learners to develop and maintain interest in physic
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
-- Item 1
-- Item 2
-- Item 3
+<table>
+  <tr>
+    <td><strong>Title 1</strong></td>
+    <td><strong>Title 2</strong></td>
+  </tr>
+  <tr>
+    <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
+    <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
+  </tr>
+  <tr>
+    <sub>*Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute.*</sub>
+    <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
+  </tr>
+  
+</table>
 
    </td>
    <td>
