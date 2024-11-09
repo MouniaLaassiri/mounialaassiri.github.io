@@ -10,13 +10,15 @@ The objective is to motivate learners to develop and maintain interest in physic
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
-Here is a list of ASP learner programs in which I have participated:
+## Here is a list of ASP learner programs in which I have participated:
 
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
 
 _Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute._
+
+<sub>Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute</sub>
 
 
 - **[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)** <br /> 
