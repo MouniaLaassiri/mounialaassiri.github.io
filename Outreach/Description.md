@@ -5,51 +5,12 @@ and the advancement of the ASP’s mission. She attended ASP in 2016 as a studen
 Mounia was appointed to the ASP IOC with immediate impact, where she led the organization of the third African Conference on Fundamental and Applied Physics (ACP2023)
 and the eighth African School of Physics (ASP2024).
 
-<table>
-  <tr>
-    <td>
-
-**ASP learner program**
-
+##ASP learner program
+### Here is a list of ASP learner programs in which I have participated:
 One of the programs of ASP is an outreach event organized for high school learners over a period of one week. 
 The objective is to motivate learners to develop and maintain interest in physics and its applications. 
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
-
-<table>
-  <tr>
-    <td><strong>Title 1</strong></td>
-    <td><strong>Title 2</strong></td>
-  </tr>
-  <tr>
-    <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
-    <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
-  </tr>
-  <tr>
-    <sub>*Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute.*</sub>
-    <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
-  </tr>
-  
-</table>
-
-   </td>
-   <td>
-
-**ASP Online Seminars**
-
-While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly seminar or colloquium to supplement the ASP term schools.
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-   </td>
-  </tr>
-</table>
-
-
-
-### Here is a list of ASP learner programs in which I have participated:
 
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
@@ -63,6 +24,10 @@ While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly
 <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
 
 <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
+
+##ASP Online Seminars
+While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly seminar or colloquium to supplement the ASP term schools.
+
 
 
 
