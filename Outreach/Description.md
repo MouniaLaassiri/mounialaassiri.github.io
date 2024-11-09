@@ -10,6 +10,36 @@ The objective is to motivate learners to develop and maintain interest in physic
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
+
+<table>
+  <tr>
+    <td>
+
+**Column 1 Title**
+
+Content for the first column goes here. You can add text, images, lists, or even code snippets.
+
+- Item 1
+- Item 2
+- Item 3
+
+   </td>
+   <td>
+
+**Column 2 Title**
+
+Content for the second column goes here. This could also be text, images, or other elements.
+
+1. Step 1
+2. Step 2
+3. Step 3
+
+   </td>
+  </tr>
+</table>
+
+
+
 ### Here is a list of ASP learner programs in which I have participated:
 
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
