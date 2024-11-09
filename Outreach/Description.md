@@ -5,19 +5,16 @@ and the advancement of the ASP’s mission. She attended ASP in 2016 as a studen
 Mounia was appointed to the ASP IOC with immediate impact, where she led the organization of the third African Conference on Fundamental and Applied Physics (ACP2023)
 and the eighth African School of Physics (ASP2024).
 
-One of the programs of ASP is an outreach event organized for high school learners over a period of one week. 
-The objective is to motivate learners to develop and maintain interest in physics and its applications. 
-Upwards of 200 learners per day from the host country can participate in this program, and the participating 
-learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
-
-
 <table>
   <tr>
     <td>
 
-**Column 1 Title**
+**ASP learner program**
 
-Content for the first column goes here. You can add text, images, lists, or even code snippets.
+One of the programs of ASP is an outreach event organized for high school learners over a period of one week. 
+The objective is to motivate learners to develop and maintain interest in physics and its applications. 
+Upwards of 200 learners per day from the host country can participate in this program, and the participating 
+learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
 - Item 1
 - Item 2
@@ -26,9 +23,9 @@ Content for the first column goes here. You can add text, images, lists, or even
    </td>
    <td>
 
-**Column 2 Title**
+**ASP Online Seminars**
 
-Content for the second column goes here. This could also be text, images, or other elements.
+While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly seminar or colloquium to supplement the ASP term schools.
 
 1. Step 1
 2. Step 2
