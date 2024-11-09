@@ -5,7 +5,7 @@ and the advancement of the ASP’s mission. She attended ASP in 2016 as a studen
 Mounia was appointed to the ASP IOC with immediate impact, where she led the organization of the third African Conference on Fundamental and Applied Physics (ACP2023)
 and the eighth African School of Physics (ASP2024).
 
-##ASP learner program
+## ASP learner program
 ### Here is a list of ASP learner programs in which I have participated:
 One of the programs of ASP is an outreach event organized for high school learners over a period of one week. 
 The objective is to motivate learners to develop and maintain interest in physics and its applications. 
@@ -25,7 +25,7 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
 
-##ASP Online Seminars
+## ASP Online Seminars
 While doing my ASP-IOC’s I started managing the ASP Online Seminars, a monthly seminar or colloquium to supplement the ASP term schools.
 
 
