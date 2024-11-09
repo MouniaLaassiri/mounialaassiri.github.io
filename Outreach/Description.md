@@ -12,6 +12,17 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 ## Here is a list of ASP learner programs in which I have participated:
 
+<table>
+  <tr>
+    <th>Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute</th>
+    <th>Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.</th>
+  </tr>
+  <tr>
+    <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
+    <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
+  </tr>
+</table>
+
 - **[ASP2024 High School](https://indico.cern.ch/event/1393743/)** <br /> 
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">
