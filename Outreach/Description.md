@@ -12,16 +12,6 @@ The objective is to motivate learners to develop and maintain interest in physic
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
 learners are identified by the local organizing committee (LOC) in consultation with the Regional Educational Authorities around the venue.
 
-<table>
-  <tr>
-    <td>[ASP2024 High School](https://indico.cern.ch/event/1393743/)</td>
-        <td>[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)</td>
-  </tr>
-  <tr>
-    <td><img alt="ASP2024" src="ASP2024.jpg" width="425" title="Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute."></td>
-    <td><img alt="ASP2022" src="ASP2022.JPG" width="425" title="Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute."></td>    
-  </tr>
- </table>
 
 | [ASP2024 High School](https://indico.cern.ch/event/1393743/) | [ASP2022 High School](https://africanschoolofphysics.org/asp2022/) |
 | --- | --- |
