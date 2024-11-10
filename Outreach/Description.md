@@ -25,7 +25,7 @@ learners are identified by the local organizing committee (LOC) in consultation 
   </tr>
   <tr>
     <td><img alt="ASP2024" src="ASP2024.jpg" width="425" title="Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute.></td>
-    <td><img alt="ASP2022" src="ASP2022.JPG" width="425" title="Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute."></td>
+    <td><img alt="ASP2022" src="ASP2022.JPG" width="425" title="Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.></td>    
   </tr>
  </table>
 
