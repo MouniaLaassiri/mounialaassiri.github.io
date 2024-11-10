@@ -20,7 +20,7 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 <table>
   <tr>
-    <td>ASP2024 High School</td>
+    <td>[ASP2024 High School](https://indico.cern.ch/event/1393743/)</td>
      <td>ASP2022 High School</td>
   </tr>
   <tr>
