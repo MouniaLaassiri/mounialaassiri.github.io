@@ -18,6 +18,11 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 <sub>*Dr. Mounia Laassiri, discussing the mathematical formalism of the concept of center-of-mass and the condition of stability of the 15-block Jenga cantilever that the learners succeeded in building, Photo Credits: Gilbert Tekoute.*</sub>
 
+<br> <br>
+
+<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">      <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG"> 
+
+<br> <br>
 
 - **[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)** <br /> 
 
