@@ -24,6 +24,17 @@ learners are identified by the local organizing committee (LOC) in consultation 
   <img alt="ASP2022" src="ASP2022.JPG" width="425">
 </p>
 
+<table>
+  <tr>
+    <td>ASP2024 High School</td>
+     <td>ASP2022 High School</td>
+  </tr>
+  <tr>
+    <td><img alt="ASP2024" src="ASP2024.jpg" width="425"></td>
+    <td><img alt="ASP2022" src="ASP2022.JPG" width="425"></td>
+  </tr>
+ </table>
+
 - **[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)** <br /> 
 
 <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2022.JPG">
