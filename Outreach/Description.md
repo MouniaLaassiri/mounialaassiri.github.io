@@ -20,16 +20,16 @@ learners are identified by the local organizing committee (LOC) in consultation 
 
 <br> <br>
 
-<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">      <img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG"> 
+<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg">      <img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2022.JPG"> 
 
 <br> <br>
 
-|![](img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2024.jpg")<br>text-1|![](img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG")<br>text-2|
-|:-:|:-:|
+![alt-text-1](ASP2024.jpg "title-1") ![alt-text-2](ASP2024.jpg "title-2")
+
 
 - **[ASP2024 High School](https://africanschoolofphysics.org/asp2022/)** <br /> 
 
-<img style="" width="425" alt="ASP2024" title="ASP2024" src="ASP2022.JPG">
+<img style="" width="425" alt="ASP2022" title="ASP2022" src="ASP2022.JPG">
 
 <sub>*Dr. Mounia Laassiri having fun with learners playing particle cards at the Nelson Mandela Bay Science and Technology Centre, Photo Credits: Gilbert Tekoute.*</sub>
 
