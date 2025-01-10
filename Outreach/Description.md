@@ -3,7 +3,7 @@ Research indicates that girls in Africa tend to lose interest in physics around 
 [African School of Physics](https://africanschoolofphysics.org) (ASP2016) in Kigali, Rwanda in 2016, Mounia found this journey with ASP beneficial for both herself 
 and the advancement of the ASP’s mission. She attended ASP in 2016 as a student and returned in 2022 as a lecturer. 
 Mounia was appointed to the ASP IOC with immediate impact, where she led the organization of the third African Conference on Fundamental and Applied Physics (ACP2023)
-and the eighth African School of Physics (ASP2024).
+and the eighth African School on Fundamental and Applied Physics (ASP2024).
 
 ## ASP learner program
 ### Here is a list of ASP learner programs in which I have participated:
