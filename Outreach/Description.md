@@ -21,7 +21,7 @@ learners are identified by the local organizing committee (LOC) in consultation 
 ## ASP Online Seminars
 While joining the ASP-IOCs, I began managing the ASP Online Seminars—a monthly seminar or colloquium designed to supplement the ASP term schools.
 
-| ![ASP2024](ASP_Online_Seminar_1.PNG "text") | ![ASP2022](ASP_Online_Seminar_2.JPG "text") | ![ASP2022](ASP_Online_Seminar_3.JPG "text") |
+| ![ASP1](ASP_Online_Seminar_1.PNG "text") | ![ASP2](ASP_Online_Seminar_2.JPG "text") | ![ASP3](ASP_Online_Seminar_3.JPG "text") |
 
 [Learn more about ASP Online Lecture Series](https://indico.cern.ch/category/12710/) 
 
