@@ -8,7 +8,7 @@ I'm also an editor of the African Physics Newsletter (APN) [ref.](https://www.ap
 
 Through my involvement in initiatives like the ASP, ASFAP, APN, ArPS and FIP, I hope to continue mentoring the next generation of African and Arab physicists.
 
-# Profile
+# In more detail:
 * [Academic CV](CV/Academic_CV.pdf)
 * <a href="../Outreach/Description.html" target="_blank">Outreach</a> <br />
 * [Linkedin](https://fi.linkedin.com/in/mounia-laassiri-85390185)
