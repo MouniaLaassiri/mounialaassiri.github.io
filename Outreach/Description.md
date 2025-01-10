@@ -6,7 +6,6 @@ Mounia was appointed to the ASP IOC with immediate impact, where she led the org
 and the eighth African School on Fundamental and Applied Physics (ASP2024).
 
 ## ASP learner program
-### Here is a list of ASP learner programs in which I have participated:
 One of the programs of ASP is an outreach event organized for high school learners over a period of one week. 
 The objective is to motivate learners to develop and maintain interest in physics and its applications. 
 Upwards of 200 learners per day from the host country can participate in this program, and the participating 
