@@ -42,6 +42,8 @@ While joining the ASP-IOCs, I began managing the ASP Online Seminars—a monthly
 3. M. Laassiri et al. [*ASFAP Working Group Summary of Societal Engagements*](https://arxiv.org/abs/2205.11362)). *arxiv, physics.soc-ph, 2022*.
 4. K.A Assamagan et al. [*Activity Report of the Second African Conference on Fundamental and Applied Physics, ACP2021*](https://doi.org/10.48550/arXiv.2204.01882)). *arxiv, physics.soc-ph, 2021*.
 5. K.A Assamagan et al. [*The African School of Fundamental Physics and Applications Activity Report 2019-2021*](https://arxiv.org/abs/2109.00509)). *arxiv, physics.soc-ph, 2020*.
+6. K.A Assamagan et al. [*The African School of Fundamental Physics and Applications (ASP)*](https://arxiv.org/abs/1909.06309)). *arxiv, physics.soc-ph, 2019*.
+
 
 
 
