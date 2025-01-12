@@ -39,7 +39,8 @@ My current research focuses on developing interlock systems for the ATLAS ITk St
 
  ## Refereed Publications
 
-1. Svanberg, E., Cui, C., & Latter, H. (2022). [*Wavelike nature of the vertical shear instability in global protoplanetary disks*](https://doi.org/10.1093/mnras/stac1234). *Monthly Notices of the Royal Astronomical Society (MNRAS)*.
+1. S. Saariokari et al. [*Nuclear fuel imaging using position-sensitive detectors*]([https://doi.org/10.1093/mnras/stac1234](https://arxiv.org/abs/2409.20214)). *arxiv, 2024*.
+2
 
 
     
