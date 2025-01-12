@@ -10,6 +10,7 @@ Through my involvement in initiatives like the ASP, ASFAP, APN, ArPS and FIP, I 
 
 # In more detail:
 * [Academic CV](CV/Academic_CV.pdf)
+* * <a href="../Research/Description.html" target="_blank">Research</a> <br />
 * <a href="../Outreach/Description.html" target="_blank">Outreach</a> <br />
 * [Linkedin](https://fi.linkedin.com/in/mounia-laassiri-85390185)
 * [ORCiD](https://orcid.org/0000-0001-7146-4468)
