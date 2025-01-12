@@ -37,6 +37,11 @@ My current research focuses on developing interlock systems for the ATLAS ITk St
   - Processed output signals using the NTFLab toolbox in MATLAB®; identified NTF1 and NTF2 as the most effective algorithms for data analysis, achieving separation of neutron and γ-ray signals.  
   - Demonstrated successful n/γ discrimination without prior knowledge of signal mixture, validated by analyzing signal-to-noise ratio (SNR) and normalized correlation functions between pure neutron and γ-ray signals.
 
+ ## Refereed Publications
+
+1. Svanberg, E., Cui, C., & Latter, H. (2022). *Wavelike nature of the vertical shear instability in global protoplanetary disks*. Monthly Notices of the Royal Astronomical Society (MNRAS).  
+
+
     
 
 
