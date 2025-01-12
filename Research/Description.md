@@ -38,8 +38,7 @@ My current research focuses on developing interlock systems for the ATLAS ITk St
   - Demonstrated successful n/γ discrimination without prior knowledge of signal mixture, validated by analyzing signal-to-noise ratio (SNR) and normalized correlation functions between pure neutron and γ-ray signals.
 
  ## Refereed Publications
-
-1. S. Saariokari et al. [*Nuclear fuel imaging using position-sensitive detectors*]([https://doi.org/10.1093/mnras/stac1234](https://arxiv.org/abs/2409.20214)). *arxiv, 2024*.
+1. S. Saariokari et al. [*Nuclear fuel imaging using position-sensitive detectors*](https://doi.org/10.1093/mnras/stac1234](https://arxiv.org/abs/2409.20214)). *arxiv, 2024*.
 2. A. E. Bolotnikov et al. [*3x3 array module of 8×8×32 mm3 position-sensitive virtual Frisch-grid CdZnTe detectors for imaging and spectroscopy of cosmic gamma-rays*](https://www.sciencedirect.com/science/article/abs/pii/S0168900224002547)). *NIMA, 2024*.
 3. V. Rathor et al. [*First experimental demonstration of the use of a novel planar segmented HPGe detector for gamma emission tomography of mockup fuel rods*](https://www.tandfonline.com/doi/full/10.1080/00295450.2023.2236882)). *Nuclear Technology, 2023*.
 4. P. Dendooven et al. [*Passive methods for spent fuel characterisation at the Finnish geological repository*]([https://www.tandfonline.com/doi/full/10.1080/00295450.2023.2236882](https://www.sif.it/riviste/sif/ncc/econtents/2023/046/02/article/19))). *Italian Physical Society, 2023*.
