@@ -14,7 +14,7 @@ My current research focuses on developing interlock systems for the ATLAS ITk St
   - Developed a Monte Carlo simulation framework using the Geant4 toolkit to simulate detector performance, validated through code-to-code verification and experimental data from the Helsinki Institute of Physics (HIP), University of Helsinki, and Uppsala University.  
   - Explored the potential of Compton imaging to trace the origin of gamma rays along spent nuclear fuel assemblies (SFAs), enhancing precision in nuclear fuel imaging.
 
-- **Jun 2023 – Dec 2023: Evaluation of Position-Sensitive Virtual Frisch-Grid CZT Detectors**  
+- **Jun – Dec 2023: Evaluation of Position-Sensitive Virtual Frisch-Grid CZT Detectors**  
   - Fabricated and tested pixelated CZT detectors for gamma-ray detection.  
   - Investigated the use of CZT and germanium detectors for position-sensitive gamma-ray detection, contributing to advancements in 3D imaging technologies.  
   - Employed two-site event reconstruction to demonstrate the array’s Compton imaging capability.
