@@ -1,5 +1,5 @@
 # Research
-My current research focuses on developing interlock systems for the ATLAS ITk Strips tracker upgrade at Brookhaven National Laboratory.
+My research lies in nuclear and particle physics and their applications. For my current postdoctoral research, I am focusing on various tasks related to the ATLAS Phase II Tracker Upgrade, specifically the strips barrel, at BNL. I serve as the U.S. contact for the ColdJig software.
 
 ## Research Activities
 
