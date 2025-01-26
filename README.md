@@ -6,7 +6,8 @@ I serve as a co-convener of the African Young Physicists Forum (YPF) within the 
 
 I'm also an editor of the African Physics Newsletter (APN), published quarterly by the American Physical Society (APS). Additionally, I have been appointed as a Trustee on the Board of Trustees of ASP and to the ASP International Organizing Committee (IOC). Recently, I was appointed to the Governing Council (GC) of the Arab Physical Society (ArPS) and most recently, I am appointed as a Member-at-Large of the APS Forum on International Physics (FIP), with my term commencing on January 1st, 2025.
 
-Through my involvement in initiatives like the ASP, ASFAP, APN, ArPS and FIP, I hope to continue mentoring the next generation of African and Arab physicists.
+Through my involvement in initiatives like the ASP, ASFAP, APN, ArPS, and FIP, I aim to continue mentoring the next generation of African and Arab physicists and contribute to physics education and research for the development of Africa.
+
 
 # In more detail:
 * [Academic CV](CV/Academic_CV.pdf)
