@@ -1,6 +1,6 @@
 - [Brookhaven National Laboratory](https://www.bnl.gov/world/)
 - [University of Johannesburg](https://www.uj.ac.za)
-- [University of helsinki](https://www.helsinki.fi/en)
+- [University of Helsinki](https://www.helsinki.fi/en)
 - [Mohammed V University](https://www.um5.ac.ma/um5/)
 - [African School of Physics](https://africanschoolofphysics.org)
 - [Africa Physics Strategy](https://africanphysicsstrategy.org)
