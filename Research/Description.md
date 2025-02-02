@@ -3,7 +3,7 @@ My research lies in nuclear and particle physics and their applications. For my 
 
 ## Research Activities
 
-- **3 May 2024: ATLAS ITk Strips Phase II Tracker Upgrade**  
+- **3 May 2024 – present: ATLAS ITk Strips Phase II Tracker Upgrade**  
   - Conducting research and development for the ATLAS Phase II tracker upgrade, focusing on ITk strips barrel modules at Brookhaven National Laboratory.  
   - Developing interlock systems to ensure safe thermal cycling of silicon strip modules, enhancing operational safety and reliability.  
   - Overseeing quality control (QC) processes for ITk strips barrel modules, leveraging a coldjig setup for temperature control, data acquisition (DAQ), and hardware monitoring.  
