@@ -10,7 +10,7 @@ Through my involvement in initiatives like the ASP, ASFAP, APN, ArPS, and FIP, I
 
 
 # In more detail:
-* [Academic CV](CV/Academic_CV.pdf)
+* [Academic CV](CV/MLaassiri_CV.pdf) 
 * <a href="../Research/Description.html" target="_blank">Research</a> <br />
 * <a href="../Outreach/Description.html" target="_blank">Outreach</a> <br />
 * <a href="../Links/Description.html" target="_blank">Related Links</a> <br />
