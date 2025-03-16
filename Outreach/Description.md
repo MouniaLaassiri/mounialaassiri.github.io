@@ -36,12 +36,8 @@ While joining the ASP-IOCs, I began managing the ASP Online Seminars—a monthly
 [Learn more about ASP Online Lecture Series](https://indico.cern.ch/category/12710/) 
 
 ## Refereed Publications
-1. K. A. Assamagan et al. [*Summary Report on the 2024 African School of Physics Program for Learners*](https://doi.org/10.48550/arXiv.2408.01464). *arxiv, 2024*.
-2. B. Mulilo et al. [*Young Physicists Forum and the Importance for Education and Capacity Development for Africa*](https://arxiv.org/abs/2206.15171). *arxiv, physics.soc-ph, 2022*.
-3. M. Laassiri et al. [*ASFAP Working Group Summary of Societal Engagements*](https://arxiv.org/abs/2205.11362)). *arxiv, physics.soc-ph, 2022*.
-4. K.A Assamagan et al. [*Activity Report of the Second African Conference on Fundamental and Applied Physics, ACP2021*](https://doi.org/10.48550/arXiv.2204.01882). *arxiv, physics.soc-ph, 2021*.
-5. K.A Assamagan et al. [*The African School of Fundamental Physics and Applications Activity Report 2019-2021*](https://arxiv.org/abs/2109.00509). *arxiv, physics.soc-ph, 2020*.
-6. K.A Assamagan et al. [*The African School of Fundamental Physics and Applications (ASP)*](https://arxiv.org/abs/1909.06309). *arxiv, physics.soc-ph, 2019*.
+1. B. Mulilo et al. [*Young Physicists Forum and the Importance for Education and Capacity Development for Africa*](https://arxiv.org/abs/2206.15171). *arxiv, physics.soc-ph, 2022*.
+2. M. Laassiri et al. [*ASFAP Working Group Summary of Societal Engagements*](https://arxiv.org/abs/2205.11362)). *arxiv, physics.soc-ph, 2022*.
 
 
 
