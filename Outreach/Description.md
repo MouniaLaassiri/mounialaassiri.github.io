@@ -28,6 +28,7 @@ While joining the ASP-IOCs, I began managing the ASP Online Seminars—a monthly
 
 
 <p align="center">
+  <img src="ASP_Online_Seminar_4.PNG" alt="ASP4" width="300">
   <img src="ASP_Online_Seminar_1.PNG" alt="ASP1" width="300">
   <img src="ASP_Online_Seminar_3.JPG" alt="ASP2" width="300">
   <img src="ASP_Online_Seminar_2.JPG" alt="ASP3" width="300">
