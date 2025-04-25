@@ -3,13 +3,13 @@ My research lies in nuclear and particle physics and their applications. For my 
 
 ## Research Activities
 
-- **3 May 2024 – present: ATLAS ITk Strips Phase II Tracker Upgrade**  
+- **May 2024 – present: ATLAS ITk Strips Phase II Tracker Upgrade**  
   - Conducting research and development for the ATLAS Phase II tracker upgrade, focusing on ITk strips barrel modules at Brookhaven National Laboratory.  
   - Developing interlock systems to ensure safe thermal cycling of silicon strip modules, enhancing operational safety and reliability.  
   - Overseeing quality control (QC) processes for ITk strips barrel modules, leveraging a coldjig setup for temperature control, data acquisition (DAQ), and hardware monitoring.  
   - Serving as the US contact for the coldjig software.
 
-- **3 Jun 2022 – May 2024: POSEIDON - Position-sensitive Detectors for Nuclear Fuel Imaging**  
+- **Jun 2022 – May 2024: POSEIDON - Position-sensitive Detectors for Nuclear Fuel Imaging**  
   - Studied the performance of a Passive Gamma Emission Tomography (PGET) device utilizing state-of-the-art 3D position-sensitive semiconductor gamma-ray detectors.  
   - Developed a Monte Carlo simulation framework using the Geant4 toolkit to simulate detector performance, validated through code-to-code verification and experimental data from the Helsinki Institute of Physics (HIP), University of Helsinki, and Uppsala University.  
   - Explored the potential of Compton imaging to trace the origin of gamma rays along spent nuclear fuel assemblies (SFAs), enhancing precision in nuclear fuel imaging.
